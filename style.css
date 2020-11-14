@@ -1,0 +1,39 @@
+body{
+	background-color: yellow;
+}
+
+a{
+	text-decoration: none;
+	color: green;
+}
+
+h2{
+	color: red;
+	font-size: 34px; 
+}
+
+.card {
+	text-align: center;
+	background-color: white
+	padding: 30px;
+}
+.lol {
+	text-align: center;
+	background-color: white;
+	padding:30px;
+}
+.clo {
+	text-align: center;
+	background-color: white
+	padding:30Px;
+}
+.Emma {
+	text-align: center;
+	background-color: white;
+	padding: 30px 
+}
+.la {
+	text-align: center;
+	background-color: white
+	padding:30px;
+}
